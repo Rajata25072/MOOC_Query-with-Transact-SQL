@@ -4,7 +4,7 @@
 
 This repository contains the lab, handouts and exercise files from Microsoft MOOC course, *Querying with Transact-SQL*, which I have workerd through in [edX](https://www.edx.org/course/querying-transact-sql-microsoft-dat201x-0).
 
-The course is comprises of 11 labs which are  
+The course is comprises of 11 labs which are 
 - Lab01_Introduction to Transact-SQL  
 - Lab02_Querying Tables with SELECT  
 - Lab03_Querying Multiple Tables with JOIN  
